@@ -1,0 +1,26 @@
+@import url(//fonts.googleapis.com/css2?family=Open+Sans);
+html, body, #root {
+  display: flex;
+  background: linear-gradient(#ffeb7d, #d95501);
+  color: #4966c1;
+  height: 100%;
+  margin: 0%;
+  font-family: "Open Sans", sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 20px;
+}
+
